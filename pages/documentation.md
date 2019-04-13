@@ -38,23 +38,18 @@ use in front matter via: `layout: page`
 ### Page/Post with a left or right sidebar
 If you want to show the sidebar, just enter `sidebar: left` or `sidebar: right` in front matter, and *whoops, there it is*! To customize the content of the sidebar, open `_includes/sidebar`.
 
-
 ### Page/Post with or without metadata
 If you want to show metadata like categories, tags and date at the end of the page, just enter `show_meta: true`. It's on by default. You can change it via `_config.yml`. To turn of metadata just enter – *yes, you guessed right* – `show_meta: false`.
-
-
 
 ### Page Full Width
 If you want full control of styling a page, then use the [page fullwidth template]({{ site.url }}{{ site.baseurl }}/design/page-fullwidth/). To set up a grid, just use the [foundation grid system](http://foundation.zurb.com/docs/components/grid.html).
 
 use in front matter via: `layout: page-fullwidth`
 
-
 ### Frontpage
 This template is special. It allows you to define three *widgets* which are displayed with a headline, image, description and a link to the content. It's used for the [homepage]({{ site.url }}{{ site.baseurl }}) of this website.
 
 use in front matter via: `layout: frontpage`
-
 
 ### Video
 If you're a video producer or cineast, you'll like the [video template]({{ site.url }}{{ site.baseurl }}/design/video/). It darkens the layout to black and lets the video stand out full-width.
@@ -64,13 +59,9 @@ use in front matter via: `layout: video`
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
-
-
-
 ## Style your content with   {#styling}
 
 Feeling Responsive offers lots of possibilities to style your articles. You can style your content in different ways. There are elements like subheadlines, feature images, header images, homepage images, meta data like categories and tags and many more.
-
 
 ### subheadlines
 
@@ -88,7 +79,6 @@ Quotes mix it up a little bit, if you write long articles. So use quotes:
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
-
 ## Comments
 
 You can use comments with *Feeling Responsive* by the way of Disqus. If you want to use Disqus-Comments just open `config.yml` and add your `disqus_shortname`. [More on how to use Disqus ›](https://disqus.com/websites/)
@@ -97,9 +87,6 @@ By default comments are turned off. You can customize the default behaviour in `
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
-
-
-
 
 ## Responsive Videos
 
@@ -117,13 +104,11 @@ With foundation responsive videos are easy. [More ›](http://foundation.zurb.co
 </div>
 {% endhighlight %}
 
-
 <img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="">
 
 ## Images: Title, Thumbnails, Homepage   {#images}
 
-There are several types of images you can define via front matter. If you want to change the images used in the header have a look at [Style your Header]({{ site.url }}/headers/). 
-
+There are several types of images you can define via front matter. If you want to change the images used in the header have a look at [Style your Header]({{ site.baseurl }}/headers/). 
 
 ### Title Images
 
@@ -131,7 +116,6 @@ There are several types of images you can define via front matter. If you want t
 image:
     title: image.jpg
 ~~~
-
 
 ### Thumbnails
 
@@ -142,7 +126,6 @@ image:
     thumb: thumbnail_image.jpg
 ~~~
 
-
 ### Homepage Image
 
 If you want to feature an article on the homepage with a huge image, then use the homepage image with a width of 970 pixels. If no homepage image is defined *Feeling Responsive* writes instead *New Blog Articles* over the blog entries. Define the homepage image like this:
@@ -151,8 +134,6 @@ If you want to feature an article on the homepage with a huge image, then use th
 image:
     homepage: header_homepage_13.jpg
 ~~~
-
-
 
 ### Captions with URL
 
@@ -176,10 +157,8 @@ image:
     caption_url: "http://phlow.de/"
 ~~~
 
-
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
-
 
 ## Create a Table of Contents
 {: .t60}
@@ -213,7 +192,6 @@ To turn on breadcrumbs, just use...
 {% highlight html %}
 breadcrumb: true
 {% endhighlight %}
-
 
 ## Includes
 {: .t60}
@@ -253,7 +231,6 @@ If your content is on Jekyll you can use this include to automatically generate 
 {% raw %}{% include _improve_content.html %}{% endraw %}
 ~~~
 
-
 ### list-collection
 
 This include lets you loop through a collection to list all entries in that collection. If you set »published: false« in front matter of a collection page the page gots filtered out via unless. The following example loops through a collection called *wordpress*.
@@ -261,7 +238,6 @@ This include lets you loop through a collection to list all entries in that coll
 ~~~
 {% raw %}{% include list-collection collection='wordpress' %}{% endraw %}
 ~~~
-
 
 ### alert – Embed an alert in your content
 
