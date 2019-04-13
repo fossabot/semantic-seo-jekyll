@@ -40,6 +40,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 #
 urlimg: 'https://github.com/Phlow/feeling-responsive/images'
 
+timezone: America/New_York
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
