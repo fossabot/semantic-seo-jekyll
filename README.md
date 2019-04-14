@@ -1,4 +1,4 @@
-## A Responsive Jekyll Theme: *Feeling Responsive* [![Build Status](https://travis-ci.com/inetbiz/semantic-seo-jekyll.png?branch=gh-pages)](https://travis-ci.com/inetbiz/semantic-seo-jekyll)
+## A Responsive Jekyll Theme: *Semantic SEO Jekyll* [![Build Status](https://travis-ci.com/inetbiz/semantic-seo-jekyll.png?branch=gh-pages)](https://travis-ci.com/inetbiz/semantic-seo-jekyll)
 
 Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>. To get to know *Feeling Responsive* check out all the features explained in the [documentation][1]. And what license is *Feeling Responsive* released under? [This one][2].
 
