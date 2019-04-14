@@ -6,7 +6,7 @@
 
 Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>. To get to know *Feeling Responsive* check out all the features explained in the [documentation][1]. And what license is *Feeling Responsive* released under? [This one][2].
 
-[![Build Status](https://travis-ci.com/inetbiz/feeling-responsive.png?branch=gh-pages)](https://travis-ci.com/inetbiz/feeling-responsive)
+[![Build Status](https://travis-ci.com/inetbiz/semantic-seo-jekyll.png?branch=gh-pages)](https://travis-ci.com/inetbiz/semantic-seo-jekyll)
 
 ## Why use this theme?
 
