@@ -1,5 +1,5 @@
 ## A Responsive Jekyll Theme: *Semantic SEO Jekyll* [![Build Status](https://travis-ci.com/inetbiz/semantic-seo-jekyll.png?branch=gh-pages)](https://travis-ci.com/inetbiz/semantic-seo-jekyll)
-| ![Denver Prophit Jr.](https://static.flattr.net/uc/zln/3yz/zln3yz/profile.png)  	| I'm a certified linux administrator, junior front-end devloper and search engine marketer 	|
+| ![Denver Prophit Jr.](https://static.flattr.net/uc/zln/3yz/zln3yz/profile.png)  	| I'm a certified linux administrator, junior front-end devloper and search engine marketer. <hr/> You can follow and support me at the following:<br> <img src="/assets/img/flattr.svg" alt="Support me on flattr" width="20" height="20">&nbsp;&nbsp;<img src="/assets/img/flattr.svg" alt="Support me on flattr" width="20" height="20"> <img src="/assets/img/amazon.svg" width="20" height="20"> 	|
 |--:	|:--	|
 
 
