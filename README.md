@@ -1,8 +1,10 @@
 ## A Responsive Jekyll Theme: *Semantic SEO Jekyll* [![Build Status](https://travis-ci.com/inetbiz/semantic-seo-jekyll.png?branch=gh-pages)](https://travis-ci.com/inetbiz/semantic-seo-jekyll)
+| ![Denver Prophit Jr.](https://static.flattr.net/uc/zln/3yz/zln3yz/profile.png)  	| I'm a certified linux administrator, junior front-end devloper and search engine marketer 	|
+|--:	|:--	|
 
-Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>. To get to know *Feeling Responsive* check out all the features explained in the [documentation][1]. And what license is *Feeling Responsive* released under? [This one][2].
 
 
+ To get to know *Feeling Responsive* check out all the features explained in the [documentation][1]. And what license is *Feeling Responsive* released under? [This one][2].
 
 ## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
 
@@ -36,3 +38,9 @@ Feeling Responsive is heavily customizable.
  [8]: http://phlow.github.io/simplicity/
  [9]: #
  [10]: #
+[a.a]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[b.b]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[c.c]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[a]: http://www.twitter.com/DenverProphitJr
+[b]: http://www.facebook.com/denverprophit
+[c]: http://www.github.com/carlsednaoui
