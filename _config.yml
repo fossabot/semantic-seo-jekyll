@@ -27,10 +27,11 @@ author: dprophit
 #
 url: 'https://inetbiz.github.io'
 baseurl: '/semantic-seo-jekyll'
+urlimg: '/images'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://inetbiz.github.io/feeling-responsive/edit/gh-pages
+improve_content: https://inetbiz.github.io/semantic-seo-jekyll/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,7 +39,7 @@ improve_content: https://inetbiz.github.io/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://inetbiz.github.io//semantic-seo-jekyll/images/'
+urlimg: 'https://inetbiz.github.io/semantic-seo-jekyll/images/'
 
 timezone: America/New_York
 
