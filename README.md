@@ -1,14 +1,8 @@
 ## A Responsive Jekyll Theme: *Semantic SEO Jekyll* [![Build Status](https://travis-ci.com/inetbiz/semantic-seo-jekyll.png?branch=gh-pages)](https://travis-ci.com/inetbiz/semantic-seo-jekyll)
-| ![Denver Prophit Jr.](https://static.flattr.net/uc/zln/3yz/zln3yz/profile.png)  	| I'm a certified linux administrator, junior front-end devloper and search engine marketer. <hr/> You can follow and support me at the following:<br> <img src="/assets/img/flattr.svg" alt="Support me on flattr" width="20" height="20">&nbsp;&nbsp;<img src="/assets/img/flattr.svg" alt="Support me on flattr" width="20" height="20"> <img src="/assets/img/amazon.svg" width="20" height="20"> 	|
+| ![Denver Prophit Jr.](https://static.flattr.net/uc/zln/3yz/zln3yz/profile.png)  	| I'm a certified linux administrator, junior front-end devloper and search engine marketer. <hr/> You can follow and support me at the following:<br><a href="https://flattr.com/@dprophitjr" title="Support Me on Flattr" target="_blank"><img src="/assets/img/flattr.svg" alt="Support me on flattr" width="20" height="20"></a>&nbsp;&nbsp;<a href="https://twitter.com/DenverProphitJr" title="Support Me on Twitter" target="_blank"><img src="/assets/img/twitter.svg" alt="Support me on twitter" width="20" height="20"></a>&nbsp;&nbsp;<a href="https://facebook.com/denverprophitjr/" title="Support Me on facebook" target="_blank"><img src="/assets/img/facebook.svg" alt="Support me on facebook" width="20" height="20"></a>&nbsp;&nbsp;<a href="https://www.paypal.me/denverprophit" title="Support Me on paypal" target="_blank"><img src="/assets/img/paypal.svg" alt="Support me on paypal" width="20" height="20"></a> 	|
 |--:	|:--	|
 
-
-
  To get to know *Feeling Responsive* check out all the features explained in the [documentation][1]. And what license is *Feeling Responsive* released under? [This one][2].
-
-## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
-
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Phlow&url=https://github.com/Phlow/feeling-responsive&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)
 
 ## Why use this theme?
 
