@@ -1,8 +1,12 @@
 ## A Responsive Jekyll Theme: *Semantic SEO Jekyll* [![Build Status](https://travis-ci.com/inetbiz/semantic-seo-jekyll.png?branch=gh-pages)](https://travis-ci.com/inetbiz/semantic-seo-jekyll)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Finetbiz%2Fsemantic-seo-jekyll.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Finetbiz%2Fsemantic-seo-jekyll?ref=badge_shield)
 | ![Denver Prophit Jr.](https://static.flattr.net/uc/zln/3yz/zln3yz/profile.png)  	| I'm a certified linux administrator, junior front-end devloper and search engine marketer. <hr/> You can follow and support me at the following:<br><a href="https://flattr.com/@dprophitjr" title="Support Me on Flattr" target="_blank"><img src="/assets/img/flattr.svg" alt="Support me on flattr" width="20" height="20"></a>&nbsp;&nbsp;<a href="https://twitter.com/DenverProphitJr" title="Support Me on Twitter" target="_blank"><img src="/assets/img/twitter.svg" alt="Support me on twitter" width="20" height="20"></a>&nbsp;&nbsp;<a href="https://facebook.com/denverprophitjr/" title="Support Me on facebook" target="_blank"><img src="/assets/img/facebook.svg" alt="Support me on facebook" width="20" height="20"></a>&nbsp;&nbsp;<a href="https://www.paypal.me/denverprophit" title="Support Me on paypal" target="_blank"><img src="/assets/img/paypal.svg" alt="Support me on paypal" width="20" height="20"></a> 	|
 |--:	|:--	|
 
  To get to know *Feeling Responsive* check out all the features explained in the [documentation][1]. And what license is *Feeling Responsive* released under? [This one][2].
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Finetbiz%2Fsemantic-seo-jekyll.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Finetbiz%2Fsemantic-seo-jekyll?ref=badge_large)
 
 ## Why use this theme?
 
